@@ -2,9 +2,9 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Inhoud
+  - caption: Inhoudsopgave
     chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
+      - file: some_content/1_inleiding.md
+      - file: some_content/2_Hoe_werken_gewone_computers.md
+      
    # - file: references.md #buiten gebruik, eventueel in te zetten mocht je referenties willen gebruiken
