@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Inhoudsopgave
     chapters:
-      - file: some_content/1_inleiding.md
+      - file: some_content/1_Inleiding.md
       - file: some_content/2_Hoe_werken_gewone_computers.md
       
    # - file: references.md #buiten gebruik, eventueel in te zetten mocht je referenties willen gebruiken
