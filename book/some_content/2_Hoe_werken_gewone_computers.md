@@ -1,4 +1,4 @@
-# Hoe werken gewone computers
+# 2. Hoe werken gewone computers
 Het woord "computer" komt van het Engelse woord *"to compute,"* wat "berekenen" betekent. Een gewone computer gebruikt nullen en enen om opdrachten uit te voeren. Deze nullen en enen worden bits genoemd. De computer vertaalt bijvoorbeeld een getal in een reeks van nullen en enen, die binaire codes worden genoemd. Deze binaire codes kunnen dan worden gebruikt om snel berekeningen uit te voeren. Hieronder vind je een overzicht van de binaire codes van het getal 0 t/m 7:
 
 | **Getal** | **Binaire code** | **Getal** | **Binaire code** |
