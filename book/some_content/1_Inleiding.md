@@ -1,4 +1,4 @@
-# Inleiding
+# 1. Inleiding
 Vandaag duiken we in de fascinerende wereld van **quantumcomputers**. Tijdens deze les ontdek je hoe een quantumcomputer werkt en hoe deze verschilt van de gewone computers die we dagelijks gebruiken. We leren wat een qubit is, hoe *quantummechanica* het mogelijk maakt om sneller en slimmer te rekenen, en waarom wetenschappers en bedrijven zo enthousiast zijn over deze technologie.
 
 
